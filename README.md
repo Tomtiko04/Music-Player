@@ -28,6 +28,10 @@ This is a music player application with different features:
 
 - Email - [ogunneyeoyinkansola@gmail.com]
 
+## Preview Link
+
+- https://music-player-psi-two.vercel.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
