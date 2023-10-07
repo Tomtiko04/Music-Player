@@ -27,7 +27,7 @@ export default function Play() {
         <div className="flex flex-col">
           <Audio />
           <div>
-            <div className="flex flex-row justify-between items-center mb-4">
+            <div className="flex flex-row justify-between items-center md:mb-4 mb-8">
               <p className="text-xl text-white font-semibold font-sans leading-10">
                 Recently Played
               </p>
