@@ -1,14 +1,4 @@
-// const Songs = [
-//   {
-//     id: 1,
-//     img: "g",
-//     tittle: "ggg",
-//     url: "https://open.spotify.com/show/3AGe43ZNWzBplppVCmPc2b",
-//   },
-// ];
 import playImg from "../assets/images/play.png";
-// import rplay1 from "../assets/images/rplay-1.png";
-// import rplay2 from "../assets/images/rplay-2.png";
 
 export const songsdata = [
   {
